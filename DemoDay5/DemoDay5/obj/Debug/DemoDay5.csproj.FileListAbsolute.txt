@@ -1,0 +1,7 @@
+F:\c#-workspace\DemoDay5\DemoDay5\bin\Debug\DemoDay5.exe.config
+F:\c#-workspace\DemoDay5\DemoDay5\bin\Debug\DemoDay5.exe
+F:\c#-workspace\DemoDay5\DemoDay5\bin\Debug\DemoDay5.pdb
+F:\c#-workspace\DemoDay5\DemoDay5\obj\Debug\DemoDay5.csproj.CoreCompileInputs.cache
+F:\c#-workspace\DemoDay5\DemoDay5\obj\Debug\DemoDay5.exe
+F:\c#-workspace\DemoDay5\DemoDay5\obj\Debug\DemoDay5.pdb
+F:\c#-workspace\DemoDay5\DemoDay5\obj\Debug\DemoDay5.csprojAssemblyReference.cache

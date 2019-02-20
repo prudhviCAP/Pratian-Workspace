@@ -1,0 +1,7 @@
+F:\c#-workspace\Day3Demo\Day3Demo\bin\Debug\Day3Demo.exe.config
+F:\c#-workspace\Day3Demo\Day3Demo\bin\Debug\Day3Demo.exe
+F:\c#-workspace\Day3Demo\Day3Demo\bin\Debug\Day3Demo.pdb
+F:\c#-workspace\Day3Demo\Day3Demo\obj\Debug\Day3Demo.csprojAssemblyReference.cache
+F:\c#-workspace\Day3Demo\Day3Demo\obj\Debug\Day3Demo.csproj.CoreCompileInputs.cache
+F:\c#-workspace\Day3Demo\Day3Demo\obj\Debug\Day3Demo.exe
+F:\c#-workspace\Day3Demo\Day3Demo\obj\Debug\Day3Demo.pdb
